@@ -37,3 +37,38 @@
 - [x] **觀測儀表板與報告**：
   - [x] 成功繪製 4 拼圖資料觀測儀表板 (4-Panel Dashboard)。
   - [x] 成功將核心評估指標匯出為根目錄下的 `metrics.json`。
+
+---
+
+### Week 08：PDF 資料輸入與前處理（Data Ingestion）
+
+- [x] 完成 Python 虛擬環境與 Docling 套件設定。
+- [x] 成功解析 9 份 PDF 文件。
+- [x] 完成 PDF 批次資料擷取。
+- [x] 產生 Raw Markdown 原始文件。
+- [x] 完成 Markdown 清洗與格式整理。
+- [x] 產生 Cleaned Markdown 清洗文件。
+- [x] 完成 1-A：頁首頁尾清除。
+- [x] 完成 1-B：雙語標題合併。
+- [x] 完成 1-C：雙語條文合併。
+- [x] 完成 Raw 與 Cleaned Chunk 建立。
+- [x] 匯出 Raw JSON 與 Cleaned JSON。
+- [x] 完成資料品質指標分析。
+- [x] 完成 4-Panel Dashboard。
+- [x] 匯出 metrics.json。
+
+---
+
+### Week 09：期中考資料前處理與分析報告
+
+- [x] 完成 9 份 PDF 文件批次處理。
+- [x] 統計三大類別 Raw 與 Cleaned Chunk 數量。
+- [x] 完成 410 個 Raw 與 385 個 Cleaned Chunk 統計。
+- [x] 完成指定 Long Chunk 分析。
+- [x] 完成指定 Low Entropy Chunk 分析。
+- [x] 完成驗證碼與文件行號查證。
+- [x] 完成資料清洗異常案例分析。
+- [x] 完成人工查證與 AI 分析比較。
+- [x] 完成 DATA_REPORT.md 期中考報告。
+- [x] 完成 AI_USAGE.md AI 協作紀錄。
+- [x] 完成 09_midterm_chunks.ipynb 並保留執行結果。
